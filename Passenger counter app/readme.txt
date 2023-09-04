@@ -1,4 +1,4 @@
-What we learn in this project 
+What i learn in this project 
 
 1 . Script tag
 2 . variables 
