@@ -45,7 +45,8 @@ const pi = 3.14;   // Declare a constant
 if (age > 18) {
     console.log("You are an adult.");
 }
-Key Concepts
+
+### Key Concepts
 Variables: Use var, let, or const to declare variables.
 Data Types: JavaScript has primitive types like Number, String, Boolean, and reference types like Object and Array.
 Operators: Arithmetic, comparison, logical, and assignment operators.
