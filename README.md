@@ -1,5 +1,5 @@
 # JavaScript
-This repo has only javaScript project and Stuff
+This repo has only javaScript project and other  Stuff
 
 ## JavaScript Quick Start
 Welcome to the world of JavaScript! This concise guide will give you a swift introduction to this versatile programming language.
