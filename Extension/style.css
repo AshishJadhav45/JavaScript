@@ -1,0 +1,46 @@
+body{
+    margin:0px;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    
+
+}
+
+input{
+    width: 140px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid orangered;
+    margin-bottom:4px; 
+    
+}
+
+button{
+    background:orangered;
+    color:white;
+    padding: 10px 20px;
+    border:1px solid orangered;
+    font-weight:bold;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+
+}
+
+li{
+    margin-top: 5px;
+
+}
+
+a{
+   color:orangered;
+}
+
+#delete{
+    background: white;
+    color: orangered;
+
+}
